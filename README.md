@@ -4,7 +4,7 @@
 A lightweight object detection model called AT-YOLO is designed to be deployed on Raspberry Pi.
 AT-YOLO is trained on the COCO dataset.
 
-Results of COCO2017 test-dev
+## <div align="center">Results of COCO2017 test-dev</div>
 Model|Input|GFLOPs|Params|AP|AP50|AP75
  --- | --- | ---- | ---- | - | - | --
 SSD|300×300|35.2|34.3M|25.1|43.1|25.8
